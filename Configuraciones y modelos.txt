@@ -1,0 +1,44 @@
+====== RESNEST ====== 
+
+	V1:
+		-CONFIG: https://drive.google.com/uc?id=1yi3dsoN-tGOVoW_vUAEVKsdD1NY7tBAJ&export=download
+		-MODEL: https://drive.google.com/uc?id=1vWsl9lhY_pXK6jn2j4m_JDODfIpASJpT&export=download
+	V1.1:
+		-CONFIG: https://drive.google.com/uc?id=1gcVhMsJhoy4wmOENx4dANRo8_86qXwFP&export=download
+		-MODEL: https://drive.google.com/uc?id=13UVeq13D3fVOB6O43p73dfqZPeO1R0Ew&export=download
+	V2:
+		-CONFIG: https://drive.google.com/uc?id=1xtbjAyX806iw3CpYXTS53u_Q-ZymbNQE&export=download
+		-MODEL: https://drive.google.com/uc?id=1y0Tc8OIp8cgZweoQKwgVrkEIc4xKBG1a&export=download
+	V3:
+		-CONFIG: https://drive.google.com/uc?id=193UQXkykfjDAwlazqogxNxUI8-qGSZLU&export=download
+		-MODEL: https://drive.google.com/uc?id=1-TDkDOYJSEIjVe5rm7mzmOm84ovoPcHm&export=download
+
+====== DETECTORS ======
+
+	V1:
+		-CONFIG: https://drive.google.com/uc?id=15yt6vczvE8IwEoV3pmtNM44i3Q07S0pq&export=download
+		-EPOCH 1: https://drive.google.com/uc?id=1VY-_Is4i_9aZfEs6KIKnODYXds4qMVGa&export=download
+		-EPOCH 2: https://drive.google.com/uc?id=1lcamsRypieIxHBuxzdt_SC9fp97pKkX9&export=download
+		-EPOCH 3: https://drive.google.com/uc?id=1VOQu5gtquX6FdI3LaQu6qVP7c8krsPCI&export=download
+		-EPOCH 4: https://drive.google.com/uc?id=19ctTOtvT7K23f9ZohgICKHVAscVPM5n5&export=download
+		-EPOCH 5: https://drive.google.com/uc?id=1FAeli-c77J60vkLbBBSHqL3ulevIjEpj&export=download
+		-EPOCH 6: https://drive.google.com/uc?id=1f4KfOLaCFNJ4qHhcejlXqiEuFJo2QkJy&export=download
+
+	V2:
+		-CONFIG: https://drive.google.com/uc?id=1PSbVA5FpnFplYcGILAZO-zmg1vVjPKf-&export=download
+		-EPOCH 1: https://drive.google.com/uc?id=1LsXosMksPZFEYGWMkfNi8uFa354H789r&export=download
+		-EPOCH 2: https://drive.google.com/uc?id=1mWV7xRZWa8hIWPxbB0kqG7N9wu7XVHIv&export=download
+		-EPOCH 3: https://drive.google.com/uc?id=1sldFMkLtEbZ-CFqpc-LqgJU20Fry98Ts&export=download
+		-EPOCH 4: https://drive.google.com/uc?id=1QHlmqNhqC7XrP1svMwXsvbQO2gWtT9Fy&export=download
+		-EPOCH 5: https://drive.google.com/uc?id=1WfDiyF-L1_XrcWbGXO2FpoGIrs5iV6M9&export=download
+		-EPOCH 6: https://drive.google.com/uc?id=1UqZAgdGfignTxENsTR8ZTacWXVrmY9xn&export=download
+
+	V3:
+		-CONFIG: https://drive.google.com/uc?id=1yAbozXcoYvqEY3HJgAUxWhq47DFfPygw&export=download
+		-EPOCH 1: https://drive.google.com/uc?id=1pK9e5n3FkpccqQIdEJnnKQMKSOYB9BZH&export=download
+		-EPOCH 2: https://drive.google.com/uc?id=1XXoeTtWRLdzC0c5lmFUBkKQ2Qt3TPmae&export=download
+		-EPOCH 3: https://drive.google.com/uc?id=1uo3eSG8Tutd3qgy0474XNL7jE8e59YVK&export=download
+		-EPOCH 4: https://drive.google.com/uc?id=15vEaz57Du2c6WjLhGrlb7uFm-f7y9_J5&export=download
+		-EPOCH 5: https://drive.google.com/uc?id=1WuVB-q1Uw3qQF7i9AQlqzKwu_YXQP7Ok&export=download
+		-EPOCH 6: https://drive.google.com/uc?id=1x_llp3OrFOw3NACSNPGVkFQ9wq7Rrwp2&export=download
+				
